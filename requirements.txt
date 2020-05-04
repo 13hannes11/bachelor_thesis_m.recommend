@@ -1,0 +1,7 @@
+flask-restplus
+tinydb
+tinyrecord
+numpy
+pytest
+coverage
+pandas
